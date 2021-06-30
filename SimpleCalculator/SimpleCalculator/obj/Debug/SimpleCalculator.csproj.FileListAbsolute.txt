@@ -1,0 +1,10 @@
+D:\summer 2021\Visual(21)\practice\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+D:\summer 2021\Visual(21)\practice\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+D:\summer 2021\Visual(21)\practice\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+D:\summer 2021\Visual(21)\practice\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.AssemblyReference.cache
+D:\summer 2021\Visual(21)\practice\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+D:\summer 2021\Visual(21)\practice\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+D:\summer 2021\Visual(21)\practice\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.cache
+D:\summer 2021\Visual(21)\practice\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\summer 2021\Visual(21)\practice\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+D:\summer 2021\Visual(21)\practice\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
